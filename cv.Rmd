@@ -31,13 +31,14 @@ urlcolor: black
 
 # Education
 
-## Columbia University, Mailman School of Public Health \hfill 2021 - 2023
+## Master's of Sciences, Biostatistics | Theory and Methods Track \hfill 2021 - 2023
 
-Master's of Sciences, Biostatistics (Theory and Methods Track)
+Columbia University, Mailman School of Public Health
 
-## University of California, Los Angeles \hfill 2016 - 2020
+## Bachelor's of Sciences, Statistics | Linguistics Minor \hfill 2016 - 2020
 
-Bachelor's of Sciences, Statistics (Linguistics Minor)
+University of California, Los Angeles
+
 
 # Skills and Competencies
 
