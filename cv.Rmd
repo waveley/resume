@@ -50,7 +50,7 @@ R -- 4 years of experience. Skilled in `tidyverse` functions, data cleaning and 
 
 SAS -- 2 years of experience. Skilled in `DATA` step, `PROC SQL`, and macro functions.
 
-SQL -- 2 years of experience, used within `PROC SQL` in SAS.
+SQL -- 2 years of experience. Used within `PROC SQL` in SAS.
 :::
 
 ::: {.col data-latex="{0.05\textwidth}"}
