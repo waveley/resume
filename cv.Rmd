@@ -15,7 +15,7 @@ email: waveley.qiu@columbia.edu
 github: waveley
 
 phone: "(408) 888-3438"
-web: "linkedin.com/waveley"
+web: "linkedin.com/in/waveley"
 updated: FALSE
 #rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
