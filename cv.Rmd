@@ -83,7 +83,7 @@ Notetaker for the Fall '21 Principles of Epidemiology 1 (EPID P6400) course.
 
 Generated production and validation standardized datasets (SDTM/ADaM), tables, lists, and figures (TLFs) for submission to various regulatory agencies and publication groups.
 
-Worked with data management department to manage data review and generated regular monitoring reports, data reconciliation reports, and programmed edit checks.
+Worked with data management team to manage data review and generated regular monitoring reports, data reconciliation reports, and programmed edit checks.
 
 Principally responsible for producing and maintaining protocol deviation listings for several studies.
 
@@ -93,7 +93,7 @@ Programmed in SAS and SQL (PROC SQL) daily, establishing macros and automating p
 
 Assisted in SDTM, ADaM, and TLF generation.
 
-Assisted data management department in data cleaning process.
+Assisted data management team in data cleaning process.
 
 Performed routine data management tasks in reviewing database entries and in opening and closing queries
 
