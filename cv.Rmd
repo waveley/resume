@@ -1,0 +1,118 @@
+---
+output: 
+  stevetemplates::cv:
+    includes:
+      in_header: "preamble.tex"
+geometry: margin=0.5in
+
+title: "CV"
+author: Waveley Qiu
+
+jobtitle: "MS Biostatistics (Theory and Methods) '23 | Columbia University"
+address: "New York, NY"
+fontawesome: yes
+email: waveley.qiu@columbia.edu
+github: waveley
+
+phone: "(408) 888-3438"
+web: "linkedin.com/waveley"
+updated: FALSE
+#rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: black
+urlcolor: black
+
+---
+
+# Education
+
+## University of California, Los Angeles \hfill 2016 - 2020
+
+Bachelor's of Sciences, Statistics (Linguistics Minor)
+
+## Columbia University, Mailman School of Public Health \hfill 2021 - 2023
+
+Master's of Sciences, Biostatistics (Theory and Methods Track)
+
+# Skills and Competencies
+
+:::::: {.cols data-latex=""}
+
+::: {.col data-latex="{0.75\textwidth}"}
+## Programming Languages
+
+R -- 4 years of experience. Skilled in `tidyverse` functions, data cleaning and modeling.
+
+SAS -- 2 years of experience. Skilled in `DATA` step, `PROC SQL`, and macro functions.
+
+SQL -- 2 years of experience, used within `PROC SQL` in SAS.
+:::
+
+::: {.col data-latex="{0.05\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.col data-latex="{0.2\textwidth}"}
+## Languages
+
+English
+
+Mandarin Chinese
+
+:::
+::::::
+
+# Employment
+
+## Columbia University, Disability Services
+
+*Graduate Student Notetaker \hfill September 2021 - present*
+
+Notetaker for the Fall '21 Principles of Epidemiology 1 (EPID P6400) course.
+
+## EDETEK, Inc.
+
+*Statistical Programmer I \hfill October 2020 - August 2021*
+
+Generated production and validation standardized datasets (SDTM/ADaM), tables, lists, and figures (TLFs) for submission to various regulatory agencies and publication groups.
+
+Worked with data management department to manage data review and generated regular monitoring reports, data reconciliation reports, and programmed edit checks.
+
+Principally responsible for producing and maintaining protocol deviation listings for several studies.
+
+Programmed in SAS and SQL (PROC SQL) daily, establishing macros and automating processes in both data review and deliverable production.
+
+*Statistical Programming Intern  \hfill July 2020 - October 2020*
+
+Assisted in SDTM, ADaM, and TLF generation.
+
+Assisted data management department in data cleaning process.
+
+Performed routine data management tasks in reviewing database entries and in opening and closing queries
+
+## Relypsa Inc./Vifor Pharma
+
+*Biometrics Intern \hfill June 2019 - September 2019*
+
+Generated validation SDTMs after independently learning SAS.
+
+Assisted in manuscript review.
+
+Worked with data safety department and generated a weekly SAE listing.
+
+## UCLA California Nanosystems Institute
+
+*Undergraduate Research Assistant \hfill January 2018 - June 2020*
+
+Assisted in the manufacturing of nanoparticles.
+
+Conducted experiments determining drug retention and release.
+
+Analyzed measurements in Excel and experiment-specific software (CompuSyn).
