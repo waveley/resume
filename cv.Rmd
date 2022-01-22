@@ -72,11 +72,13 @@ Mandarin Chinese
 
 # Employment
 
-## Columbia University, Disability Services
+## Columbia University
 
-*Graduate Student Notetaker \hfill September 2021 - December 2021*
+*Graduate Teaching Assistant \hfill January 2022 - present*
 
-Notetaker for the Fall '21 Principles of Epidemiology 1 (EPID P6400) course.
+TA for P6110: Statistical Computing with SAS.
+
+Responsible for holding weekly office hours, assisting students during lab session in lecture, and grading homework.
 
 ## EDETEK, Inc.
 
