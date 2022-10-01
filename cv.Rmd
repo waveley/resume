@@ -5,7 +5,7 @@ output:
       in_header: "preamble.tex"
 geometry: margin=0.5in
 
-title: "CV"
+title: "Resume"
 author: Waveley Qiu
 
 jobtitle: "MS Biostatistics (Theory and Methods) '23 | Columbia University"
@@ -33,7 +33,42 @@ urlcolor: black
 
 ## Master's of Sciences, Biostatistics | Theory and Methods Track \hfill 2021 - 2023
 
-Columbia University, Mailman School of Public Health. GPA: 3.917
+Columbia University, Mailman School of Public Health. GPA: 3.958
+
+Relevant Coursework: 
+
+:::::: {.cols data-latex=""}
+
+::: {.col data-latex="{0.025\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+
+::: {.col data-latex="{0.475\textwidth}"}
+P8104 - Probability
+
+P8109 - Statistical Inference
+
+P8130/P8131 - Biostatistical Methods 1 and 2     
+:::
+
+::: {.col data-latex="{0.025\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.col data-latex="{0.475\textwidth}"}
+P8105 - Data Science 1
+
+P8160 - Advanced Statistical Computing
+
+P8158 - Latent Variables and Structural Equation Modeling
+:::
+::::::
+   
 
 ## Bachelor's of Sciences, Statistics | Linguistics Minor \hfill 2016 - 2020
 
@@ -44,31 +79,50 @@ University of California, Los Angeles
 
 :::::: {.cols data-latex=""}
 
-::: {.col data-latex="{0.75\textwidth}"}
+::: {.col data-latex="{0.8\textwidth}"}
 ## Programming Languages
 
-R -- 4 years of experience. Skilled in data cleaning, modeling, and simulations.
+>R -- 4 years of experience. Skilled in `tidyverse` functions, data cleaning, EDA, modeling, and simulations.
 
-SAS -- 2 years of experience. Skilled in `DATA` and many `PROC` steps, and the macro language
 
-SQL -- 2 years of experience. Used within `PROC SQL` in SAS.
+>SAS -- 2 years of experience. Skilled in `DATA` step and many `PROC` procedures (such as `PROC SQL`, `PROC REPORT`, `PROC TABULATE`, `PROC UNIVARIATE`), and the macro language
+
+
+>SQL -- 2 years of experience. Used within `PROC SQL` in SAS.
 :::
 
-::: {.col data-latex="{0.05\textwidth}"}
+::: {.col data-latex="{0.025\textwidth}"}
 \ 
 <!-- an empty Div (with a white space), serving as
 a column separator -->
 :::
 
-::: {.col data-latex="{0.2\textwidth}"}
+::: {.col data-latex="{0.175\textwidth}"}
 ## Languages
 
-English
+>English
 
-Mandarin Chinese
+>Mandarin
 
 :::
 ::::::
+
+# Projects
+
+## Bayesian Modeling of Hurricane Trajectories \hfill P8160 | Spring 2022 (Team of 6)
+
+>Established a Markov Chain Monte Carlo method (Gibbs Sampler) to estimate parameters of a proposed linear model in a Bayesian framework to estimate hurricane wind speed. 
+
+## Bootstrapping in the Setting of Propensity Score Matching \hfill P8160 | Spring 2022 (Team of 5)
+
+>Designed and executed a Monte-Carlo simulation study evaluating the accuracy of two bootstrap methods in estimating the standard error of average treatment effect when utilizing propensity score modeling in both binary and continuous outcome settings.
+
+## Parking Violations in NYC \hfill P8105 | Fall 2021 (Team of 5)
+
+>Conducted exploratory data analysis using data from OpenNYC to examine the distribution of parking violation tickets across New York City.
+
+>Conducted simple spatial analysis and created interactive maps identifying most commonly ticketed fire hydrants.
+
 
 # Employment
 
@@ -76,46 +130,74 @@ Mandarin Chinese
 
 *Graduate Teaching Assistant \hfill January 2022 - present*
 
-TA for P6110: Statistical Computing with SAS.
+>TA for P6110: Statistical Computing with SAS (Spring '22) and Summer Institute in Biostatistics and Data Science (Summer '22).
 
-Responsible for holding weekly office hours, assisting students during lab session in lecture, and grading homework.
+>Responsible for holding weekly office hours and/or leading recitation, assisting students during lab session in lecture, and grading homework.
+
+*Graduate Research Assistant \hfill March 2022 - present*
+
+>Contributing to the data cleaning and exploration efforts for a multi-country longitudinal study relating occurrences of natural disasters with childhood health outcomes.
 
 ## EDETEK, Inc.
 
 *Statistical Programmer I \hfill October 2020 - August 2021*
 
-Generated production and validation standardized datasets (SDTM/ADaM), tables, lists, and figures (TLFs) for submission to various regulatory agencies and publication groups.
+>Generated production and validation standardized datasets (SDTM/ADaM), tables, lists, and figures (TLFs) for submission to various regulatory agencies and publication groups.
 
-Worked with data management team to manage data review and generated regular monitoring reports, data reconciliation reports, and programmed edit checks.
+>Worked with data management team to manage data review and generated regular monitoring reports, data reconciliation reports, and programmed edit checks.
 
-Principally responsible for producing and maintaining protocol deviation listings for several studies.
+>Principally responsible for producing and maintaining protocol deviation listings for several studies.
 
-Programmed in SAS and SQL (PROC SQL) daily, establishing macros and automating processes in both data review and deliverable production.
+>Programmed in SAS and SQL (PROC SQL), establishing macros and automating processes in both data review and deliverable production.
 
 *Statistical Programming Intern  \hfill July 2020 - October 2020*
 
-Assisted in SDTM, ADaM, and TLF generation.
+>Assisted in SDTM, ADaM, and TLF generation.
 
-Assisted data management team in data cleaning process.
+>Assisted data management team in data cleaning process.
 
-Performed routine data management tasks in reviewing database entries and in opening and closing queries
+>Performed routine data management tasks in reviewing database entries and in opening and closing queries
 
 ## Relypsa Inc./Vifor Pharma
 
 *Biometrics Intern \hfill June 2019 - September 2019*
 
-Generated validation SDTMs after independently learning SAS.
+>Generated validation SDTMs after independently learning SAS.
 
-Assisted in manuscript review.
+>Assisted in manuscript review.
 
-Worked with drug safety department and generated a weekly SAE listing.
+>Worked with drug safety department and generated a weekly SAE listing.
 
 ## UCLA California Nanosystems Institute
 
 *Undergraduate Research Assistant \hfill January 2018 - June 2020*
 
-Assisted in the manufacturing of nanoparticles.
+>Assisted in the manufacturing of nanoparticles.
 
-Conducted experiments determining drug retention and release.
+>Conducted experiments determining drug retention and release.
 
-Analyzed measurements in Excel and experiment-specific software (CompuSyn).
+>Analyzed measurements in Excel and experiment-specific software (CompuSyn).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
