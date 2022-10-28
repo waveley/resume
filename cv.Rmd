@@ -47,11 +47,13 @@ a column separator -->
 
 
 ::: {.col data-latex="{0.475\textwidth}"}
-P8104 - Probability
+P8104/P9104 - Probability (Master and Doctoral)
 
-P8109 - Statistical Inference
+P8109/P9109 - Statistical Inference (Master and Doctoral)
 
 P8130/P8131 - Biostatistical Methods 1 and 2     
+
+P8105 - Data Science 1
 :::
 
 ::: {.col data-latex="{0.025\textwidth}"}
@@ -61,11 +63,14 @@ a column separator -->
 :::
 
 ::: {.col data-latex="{0.475\textwidth}"}
-P8105 - Data Science 1
 
 P8160 - Advanced Statistical Computing
 
 P8158 - Latent Variables and Structural Equation Modeling
+
+P8108 - Survival Analysis
+
+P8140 - Randomized Clinical Trials
 :::
 ::::::
    
@@ -82,13 +87,11 @@ University of California, Los Angeles
 ::: {.col data-latex="{0.8\textwidth}"}
 ## Programming Languages
 
->R -- 4 years of experience. Skilled in `tidyverse` functions, data cleaning, EDA, modeling, and simulations.
+>R -- 5 years of experience. Skilled in `tidyverse` functions, data cleaning, EDA, modeling, and simulations.
 
 
->SAS -- 2 years of experience. Skilled in `DATA` step and many `PROC` procedures (such as `PROC SQL`, `PROC REPORT`, `PROC TABULATE`, `PROC UNIVARIATE`), and the macro language
+>SAS -- 3 years of experience. Skilled in `DATA` step and many `PROC` procedures (`PROC SQL`, `PROC REPORT`, `PROC TABULATE`, `PROC UNIVARIATE`), and the macro language
 
-
->SQL -- 2 years of experience. Used within `PROC SQL` in SAS.
 :::
 
 ::: {.col data-latex="{0.025\textwidth}"}
@@ -123,20 +126,36 @@ a column separator -->
 
 >Conducted simple spatial analysis and created interactive maps identifying most commonly ticketed fire hydrants.
 
-
-# Employment
+# Employment and Experience
 
 ## Columbia University in the City of New York
 
 *Graduate Teaching Assistant \hfill January 2022 - present*
 
->TA for P6110: Statistical Computing with SAS (Spring '22) and Summer Institute in Biostatistics and Data Science (Summer '22).
+>TA for P6110: Statistical Computing with SAS (Spring '22, Fall '22), Summer Institute in Biostatistics and Data Science (Summer '22), and P8105: Data Science 1 (Fall '22).
 
->Responsible for holding weekly office hours and/or leading recitation, assisting students during lab session in lecture, and grading homework.
+>Responsiblities include: holding weekly office hours and/or leading recitation, assisting students during lecture, and grading exams and assignments.
 
-*Graduate Research Assistant \hfill March 2022 - present*
+\newpage
+*Graduate Research Assistant, Department of Environmental Health \hfill March 2022 - present*
 
->Contributing to the data cleaning and exploration efforts for a multi-country longitudinal study relating occurrences of natural disasters with childhood health outcomes.
+>Contributing to the data cleaning and exploration efforts for a multi-country longitudinal study relating occurrences of natural disasters and the onset of the COVID-19 pandemic with childhood health outcomes in Peru, India, Ethiopia, and Vietnam, under the direction of Dr. Ilan Cerna-Turoff. 
+
+>Conducted data quality checks and created tables for manuscript due for submission in December 2022.
+
+*Graduate Research Assistant, Department of Medicine \hfill September 2022 - present*
+
+>Constructed linear mixed models for exploratory analysis in longitudinal study analyzing the bi-directional effects of diet and sleep, under the direction of Dr. Bin Cheng.
+
+>Abstract submitted to EPI|Lifestyle in October 2022.
+
+## YouGov
+
+*SRG Analytics Intern \hfill July 2022 - September 2022*
+
+>Studied the theory underlying YouGov's sample matching methodology and conducted sample matching.
+
+>Developed methodology combining logistic regression and iterative proportional fitting to construct a target frame for sample matching on binary survey outcomes.
 
 ## EDETEK, Inc.
 

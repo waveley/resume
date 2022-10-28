@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  18 MAR 2022 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.13)  13 JUN 2022 10:32
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -965,16 +965,16 @@ Package microtype Info: Character `029' is missing
 AED: lastpage setting LastPage
 [2] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: D0BF5B371D482A794302B4B4ECBDECE4;3301.
+(rerunfilecheck)             Checksum: E9D525107147F13E6D236D5777DCF816;3766.
  ) 
 Here is how much of TeX's memory you used:
- 25646 strings out of 478864
- 459393 string characters out of 2848660
- 800316 words of memory out of 3000000
- 42918 multiletter control sequences out of 15000+600000
- 442360 words of font info for 154 fonts, out of 8000000 for 9000
+ 25652 strings out of 478864
+ 459573 string characters out of 2848660
+ 798480 words of memory out of 3000000
+ 42920 multiletter control sequences out of 15000+600000
+ 442485 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,11n,122p,1197b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,12n,122p,1197b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/14088/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\14088\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.
 pk>{C:/Users/14088/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fo
@@ -985,11 +985,11 @@ fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/14088/AppData/Local/Programs/MiKT
 eX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/14088/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/14088/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume.pdf (2 pages, 127586 bytes).
+Output written on resume.pdf (2 pages, 127030 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 53373 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 53381 words of extra memory for PDF output out of 61914 (max. 10000000)
 
 
 ! pdflatex: major issue: So far, you have not checked for MiKTeX updates.
