@@ -5,7 +5,7 @@ output:
       in_header: "preamble.tex"
 geometry: margin=0.5in
 
-title: "Resume"
+title: "CV"
 author: Waveley Qiu
 
 jobtitle: "MS Biostatistics (Theory and Methods) '23 | Columbia University"
